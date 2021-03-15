@@ -55,6 +55,14 @@ Les éléments pour une bonne démo en ISA :
 - présenter à l'avance le ou les scénarios qui vont s'exécuter : une manière de faire cela, un peu coûteuse mais idéale, est de reprendre le schéma d'architecture et de surligner le chemin couvert par le scénario entre les composants (de la CLI au back end et systèmes externes)
 - exécuter les scénarios depuis le front (CLI ou postman par exemple) en montrant en même temps des traces intéressantes dans le back-end (des passages dans les différents composants interconnectés par exemple), voire même jusqu'au système externe si c'est le cas. Pour démontrer cela, même si vous êtes à distance, l'écran partagé devrait donc être découpé en plusieurs fenêtres pour front, back et systèmes externes en même temps. C'est plus compliqué à distance, mais vous pourriez aussi garder à l'écran le schéma de l'architecture avec la trace du scénario à travers les composants pour que l'on puisse bien voir la communication entre composants graphiquement et dans les logs.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/collet/isa-devops/master/demos/scenariodemo1.png"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/collet/isa-devops/master/demos/scenariodemo2.png"/>
+</p>
+
 Les éléments pour une bonne démo en DevOps :
 - montrer un schéma de dépendance des modules
 - expliquer comment sont structurés vos POM
