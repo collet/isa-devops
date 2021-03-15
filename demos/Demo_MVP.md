@@ -7,7 +7,7 @@
 
   * Constraints: 
     * 15 minutes for the team, 15 minutes from the jury;
-    * No slides;
+    * No "all slides" presentation (slides are only accepted to show the architecture and the scenario paths)
     * Video demonstration by shared screen    
   * The evaluation will take into account the fact that teams presenting in the afternoon have more time to produce and prepare their demo.
 
