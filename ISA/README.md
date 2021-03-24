@@ -21,12 +21,14 @@
   - Lecture #3: C/S and Architectural viewpoints
   	 - 3.1 [Remoting and C/S](https://github.com/collet/isa-devops/blob/master/ISA/3_1_ISARemote2021.pdf)
   	 - 3.2 [Architectural viewpoints](https://github.com/collet/isa-devops/blob/master/ISA/3_2_ISAViewpoints2021.pdf) 
-  - Lecture #4: Persistence
-    - 4.1 [Persistence - Entity and Id](https://github.com/collet/isa-devops/blob/master/ISA/4_persistence-part1.pdf)
-    - 4.2 [Persistence - Relation and Inheritance](https://github.com/collet/isa-devops/blob/master/ISA/4_persistence-part2.pdf)
-    - 4.3 [Persistence - Entity Manager](https://github.com/collet/isa-devops/blob/master/ISA/4_persistence-part3.pdf)
-    - 4.4 [Persistence - Advanced tricks](https://github.com/collet/isa-devops/blob/master/ISA/4_persistence-part4.pdf)
-  - Lecture #5: Stateful and stateless session beans
+  - Lecture #4: Stateful and stateless session beans
+    - [State Wars]()
+  - Lecture #5: Persistence
+    - 5.1 [Persistence - Entity and Id](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part1.pdf)
+    - 5.2 [Persistence - Relation and Inheritance](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part2.pdf)
+    - 5.3 [Persistence - Entity Manager](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part3.pdf)
+    - 5.4 [Persistence - Advanced tricks](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part4.pdf)
+
   - Lecture #6: Interceptors
 
 ### Examples of _good_ architecture reports (FR):
