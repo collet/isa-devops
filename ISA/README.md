@@ -22,7 +22,7 @@
   	 - 3.1 [Remoting and C/S](https://github.com/collet/isa-devops/blob/master/ISA/3_1_ISARemote2021.pdf)
   	 - 3.2 [Architectural viewpoints](https://github.com/collet/isa-devops/blob/master/ISA/3_2_ISAViewpoints2021.pdf) 
   - Lecture #4: Stateful and stateless session beans
-    - [State Wars]()
+    - [State Wars](https://github.com/collet/isa-devops/blob/master/ISA/4_stateWars.pdf)
   - Lecture #5: Persistence
     - 5.1 [Persistence - Entity and Id](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part1.pdf)
     - 5.2 [Persistence - Relation and Inheritance](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part2.pdf)
