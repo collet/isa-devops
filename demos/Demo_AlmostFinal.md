@@ -1,7 +1,7 @@
 # Second Demonstration
 
-  * Date: 13.05.20
-  * Examiners: Philippe Collet (PC), Laureen Ginier (LG), Guilhem Molines (GM), Anne-Marie Pinna-Déry (AMD), Salah Dahmoul (SD)
+  * Date: May 7th
+  * Examiners: TBD
 
 ## Planning
 
@@ -11,32 +11,7 @@
 
   * Planning:
   
-| Timeslot      | Jury 1  et 2 | 
-|---------------|--------------|
-| 08:00 - 08:45 | Team  J      |
-| 15:00 - 15:45 | Team  C      |
-
-| Timeslot      | Jury 1  | 
-|---------------|---------| 
-| 09:00 - 09:45 | Team  L | 
-| 09:45 - 10:30 | Team  K |
-| 10:30 - 10:45 | Break   | 
-| 10:45 - 11:30 | Team  G | 
-| 11:30 - 12:15 | Team  H |
-|               |         |
-| 16:00 - 16:45 | Team  A |
-| 16:45 - 17:30 | Team  E |
-
-| Timeslot      | Jury 2  | 
-|---------------|---------|
-| 09:00 - 09:45 | Team  I | 
-| 09:45 - 10:30 | Team  B |  
-| 10:30 - 10:45 | Break   | 
-| 10:45 - 11:30 | Team  M | 
-| 11:30 - 12:15 | Team  N | 
-|               |         |
-| 16:00 - 16:45 | Team  F |
-| 16:45 - 17:30 | Team  D |
+TBD
 
 
 ## Expectations

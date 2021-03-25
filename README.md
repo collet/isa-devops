@@ -42,6 +42,7 @@ The whole project relies on an open-source reference implementation of _The Cook
 Deliveries are automatically extracted from the _github_ repository of the team. Details are given in the evaluation part of each part (ISA and DEVOPS). See below.
 
 - Sunday, February 14th, 8:00pm : first architecture report
+- Sunday, May 9th, 6:00pm : final delivery (see ISA and DevOps pages for details)
 
 ### Evaluation
 
