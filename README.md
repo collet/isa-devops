@@ -54,12 +54,12 @@ Evaluation is organized as follows:
     - Architecture report: 15%
     - Intermediate demonstration (technical interview): 10%
     - Final demonstration (technical interview): 15%
-    - Project (code + report): 20% (deadline: TBD)
+    - Project (code + report): 20%
     - Final exam: 40%
   - [_DevOps & Continuous Testing_](https://github.com/collet/isa-devops/blob/master/DevOps/README.md) :
     - Intermediate demonstration (technical interview): 20%
     - Final demonstration (technical interview): 20%
-    - Project (code): 20% (deadline: TBD)
+    - Project (code): 20% 
     - Final exam: 40%
 
 ## Tooling
