@@ -28,8 +28,8 @@
     - 5.2 [Persistence - Relation and Inheritance](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part2.pdf)
     - 5.3 [Persistence - Entity Manager](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part3.pdf)
     - 5.4 [Persistence - Advanced tricks](https://github.com/collet/isa-devops/blob/master/ISA/5_persistence-part4.pdf)
-
-  - Lecture #6: Interceptors
+  - Lecture #6: Interceptors and MOM
+    - [Interceptors and MOM](https://github.com/collet/isa-devops/blob/master/ISA/6_j2e_plus_plus.pdf) 
 
 ### Examples of _good_ architecture reports (FR):
 
