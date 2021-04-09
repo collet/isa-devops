@@ -12,6 +12,7 @@
    * Week 1: [Devops Overview](https://github.com/collet/isa-devops/blob/master/DevOps/week1_overview_devops_v0.2.pdf)
    * Week 2: [Testing](https://github.com/collet/isa-devops/blob/master/DevOps/week2_testing_v0.4.pdf)
    * Week 3: [Continuous Integration](https://github.com/collet/isa-devops/blob/master/DevOps/week3_software_factory_v0.6.pdf)
+   * Week 7: [Containers](https://github.com/collet/isa-devops/blob/master/DevOps/week7_containers_v0.6.pdf)
 
 
 ## Deliverables
