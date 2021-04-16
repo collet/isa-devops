@@ -16,12 +16,12 @@ TBD
 
 ## Expectations
 
-You have to demonstrate a single product, covering both ISA & DevOps course contents. This single demo will be evaluated according to these two dimensions, leading to two different marks. *However*, the two courses expect the project to respect the _DroneDelivery_ call for bids and implement features related to this project.
+You have to demonstrate a single product, covering both ISA & DevOps course contents. This single demo will be evaluated according to these two dimensions, leading to two different marks. *However*, the two courses expect the project to respect the call for bids and implement features related to this project.
 
 Think about demonstrating error cases (e.g., third party service unavailable, network lost, broken test, corrupted JAR, ...) instead of staying in a perfect world. 
 
   * For *ISA*, the keypoint is to demonstrate a comprehensive architecture, going from the persistence layer to the exposition one (_i.e._, web services, CLI or other interface). You must be able to defend the strengths of your architecture, as well as discuss its limitations and evolution capabilities. You can follow the previous points put on the slack:
-     * presentation of evolution of the architecture, its decomposition into components, the scenario of the demonstration
+     * presentation of evolution of the architecture, its decomposition into components (and especially *why they are decomposed in this way*), the scenario of the demonstration
      * explanation of the impact of the integration of persistence
      * evolution of stateless/ful components
      * Where and why did you integrate interceptors (or where/why it could have be done, if you did not have time to do so)
