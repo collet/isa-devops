@@ -72,12 +72,12 @@ Non-exhaustive list of common pitfalls to avoid in your work:
 ### Final Project Delivery (deadline: May 9th, 6:00pm)
 
   - you need to deliver according to the instructions of the DevOps part +
-  - You must deliver a PDF file at the root of your main repository on Github, named finalreport.pdf. There is no page limits but concision is an evaluation criteria (and your report should be ~10 pages long). You must be able to defend the strengths of your architecture, as well as discuss its limitations and evolution capabilities. You can base your defense on the evolution of          
+  - You must deliver a PDF file at the root of your main repository on Github, named `finalreport-teamX.pdf` where X is your team letter. There is no page limit, but concision is an evaluation criteria (and your report should be ~10 pages long). You must be able to defend the strengths of your architecture, as well as discuss its limitations and evolution capabilities. You can base your defense on the evolution of          
       - the component diagram; 
       - interfaces;
       - class diagram;
       - the implementation and/or design choice of persistence, interceptors, the three types of components (Stateful, stateless, oriented messages)
-  - Each artefact must be justified with respect to its relevance in your architecture.
+  - Each artefact (component, interface, class for persisted entity) must be justified with respect to its relevance in your architecture.
   - the deliverable for both ISA and DevOps will be extracting using a specific script. Make sure your git repository tag is correct (see DevOps part as well).
   
   
