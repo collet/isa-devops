@@ -6,7 +6,7 @@
 ## Planning
 
   * Constraints: 
-    * 15 minutes for the team, around 30 minutes for the jury (for general and individual questions)
+    * 15 minutes for the team, around 30 minutes for the jury (for questions)
     * Remote
 
   * Planning:
@@ -26,6 +26,8 @@ Think about demonstrating error cases (e.g., third party service unavailable, ne
      * evolution of stateless/ful components
      * Where and why did you integrate interceptors (or where/why it could have be done, if you did not have time to do so)
      * Where and why did you integrate communication by messages (or where/why it could have be done, if you did not have time to do so)
+     * Live demo is *mandatory*
+     * While showing BDD tests to demonstrate functionalities, relying only on them is not a good idea to demonstrate the CLI.
     
   * For *DevOps*, you demonstrated during the first demo that you master a Continuous Integration system. For demo 2, we expect to see a Continuous Delivery system. By that, we mean to see a fully instrumented pipeline, that not only compiles the code, but also proves it correct through various levels of testing and generates the product deliverables. Special attention will be paid to integration tests (end2end testing from ws to backend and external systems is priority #1). We expect the core product deliverable to be in the form of (at least two) docker images, and launchable through a simple command line [we do not place the docker requirement on the clients and the external servers, but launching them should be trivial as well]. Docker Compose is mandatory. There is no requirement on any scaling technology such as Swarm or Kubernetes. Be ready to answer questions on your testing and branching strategies.
 
