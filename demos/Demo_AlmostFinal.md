@@ -1,17 +1,43 @@
 # Second Demonstration
 
   * Date: May 7th
-  * Examiners: TBD
+  * Examiners: Philippe Collet, Guilhem Molines, Anne-Marie Pinna, Nikita Rousseau
 
 ## Planning
 
   * Constraints: 
-    * 15 minutes for the team, around 30 minutes for the jury (for questions)
+    * 15 minutes for the team, around 15 minutes for the jury (for questions)
     * Remote
 
   * Planning:
   
-TBD
+| Timeslot      | Jury 1 + 2    |
+|---------------|---------------|
+| 08:00 - 08:30 | Team  I       | 
+
+| Timeslot      | Jury 1  | 
+|---------------|---------| 
+| 08:45 - 09:15 | Team  O |
+| 09:15 - 09:45 | Team  M |
+| 09:45 - 10:15 | Team  L |
+| 10:15 - 10:45 | Team  J | 
+| 10:45 - 11:00 | Break   | 
+| 11:00 - 11:30 | Team  D |
+| 11:30 - 12:00 | Team  B |
+| 12:00 - 12:30 | Team  C |
+| 12:30 - 13:00 | Team  A |
+
+| Timeslot      | Jury 2  | 
+|---------------|---------| 
+| 08:45 - 09:15 | Team  Q |
+| 09:15 - 09:45 | Team  P |
+| 09:45 - 10:15 | Team  N |
+| 10:15 - 10:45 | Team  K | 
+| 10:45 - 11:00 | Break   | 
+| 11:00 - 11:30 | Team  H |
+| 11:30 - 12:00 | Team  G |
+| 12:00 - 12:30 | Team  F |
+| 12:30 - 13:00 | Team  E |
 
 
 ## Expectations
