@@ -21,6 +21,8 @@
 
 ### Final Project Delivery (deadline: May 9th, 6pm)
 
+You need to put in the README.md at the root of your main repository the distribution of points on each team member (100 points per member for a start)
+
  We will checkout your code in the main repository, with the git options to extract the tag final_deliverable and to follow sub-modules.
  
 Once done, we will launch the script build.sh that you will have placed at the root of this extraction. This scripts should trigger a full build of everything all the way to the docker images of your project. Our evaluation machines have (at least) bash, maven, python, ant, perl, docker on them. Should anything else be required for the script to run, then the script has to say it.

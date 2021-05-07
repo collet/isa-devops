@@ -71,6 +71,7 @@ Non-exhaustive list of common pitfalls to avoid in your work:
 
 ### Final Project Delivery (deadline: May 9th, 6:00pm)
 
+  - you need to put in the README.md at the root of your main repository the distribution of points on each team member (100 points per member for a start)
   - you need to deliver according to the instructions of the DevOps part +
   - You must deliver a PDF file at the root of your main repository on Github, named `finalreport-teamX.pdf` where X is your team letter. There is no page limit, but concision is an evaluation criteria (and your report should be ~10 pages long). You must be able to defend the strengths of your architecture, as well as discuss its limitations and evolution capabilities. You can base your defense on the evolution of          
       - the component diagram; 
