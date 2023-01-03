@@ -25,9 +25,6 @@ The whole project relies on an open-source reference implementation of _The Cook
   * [Introduction to Software Architecture](https://github.com/collet/isa-devops/tree/master/ISA/README.md)
   * [DevOps & Continuous Testing](https://github.com/collet/isa-devops/tree/master/DevOps/README.md)
 
-### Case study description: 
-
-  * https://unice-my.sharepoint.com/:w:/g/personal/philippe_collet_unice_fr/EVtddCGc48ZGuGaSlcLbWCEB2tqDB1ix6_GS4WcpGq7-cw?e=T7nkiN
 
 ## Planning 
 
